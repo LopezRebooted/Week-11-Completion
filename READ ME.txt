@@ -1,0 +1,5 @@
+TASK 1 - Isaiah Lopez
+
+
+TASK 2 - Donovan Peckham
+	Created Enemy2 Script and edited GameManager Script to spawn new enemy.
