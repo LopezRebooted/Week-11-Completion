@@ -1,5 +1,5 @@
 TASK 1 - Isaiah Lopez
-
+	Modified Player script to prevent movement past the midpoint and below the screen.
 
 TASK 2 - Donovan Peckham
 	Created Enemy2 Script and edited GameManager Script to spawn new enemy.
